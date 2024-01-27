@@ -1,0 +1,17 @@
+@import "../../public/dist/css/bootstrap.css";
+@import "../../public/dist/css/animate.css";
+@import "../../public/dist/css/font-awesome.css";
+@import "../../public/dist/css/furniture-icons.css";
+@import "../../public/dist/css/linear-icons.css";
+@import "../../public/dist/css/magnific-popup.css";
+@import "../../public/dist/css/owl.carousel.css";
+@import "../../public/dist/css/ion-range-slider.css";
+@import "../../public/dist/css/theme.css";
+
+/*@tailwind base;*/
+/*@tailwind components;*/
+/*@tailwind utilities;*/
+
+[x-cloak] {
+    display: none;
+}
